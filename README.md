@@ -6,7 +6,7 @@
 
 To run, first activate Pytorch3d with: 
 
-conda activate pytorch 3d 
+conda activate pytorch3d 
 
 Then: 
 
